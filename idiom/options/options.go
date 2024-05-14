@@ -1,4 +1,4 @@
-package main
+package options
 
 type LockOptions struct {
 	isBlock             bool
